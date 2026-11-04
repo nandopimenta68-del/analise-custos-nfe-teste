@@ -1,0 +1,60 @@
+<?xml version='1.0' encoding='utf-8'?>
+<nfeProc xmlns="http://www.portalfiscal.inf.br/nfe" versao="4.00">
+  <NFe xmlns="http://www.portalfiscal.inf.br/nfe">
+    <infNFe versao="4.00" Id="NFe352401811111111000155550010000000011234567890">
+      <emit>
+        <xNome>Distribuidora AutoPeças Brasil Ltda</xNome>
+      </emit>
+      <det nItem="1">
+        <prod>
+          <cProd>PEC-004</cProd>
+          <xProd>Filtro de Óleo Lubrificante</xProd>
+          <uCom>UN</uCom>
+          <qCom>12.0000</qCom>
+          <vUnCom>18.00</vUnCom>
+          <vProd>216.00</vProd>
+        </prod>
+      </det>
+      <det nItem="2">
+        <prod>
+          <cProd>PEC-012</cProd>
+          <xProd>Bateria Automotiva 60Ah</xProd>
+          <uCom>UN</uCom>
+          <qCom>15.0000</qCom>
+          <vUnCom>374.40</vUnCom>
+          <vProd>5616.00</vProd>
+        </prod>
+      </det>
+      <det nItem="3">
+        <prod>
+          <cProd>PEC-007</cProd>
+          <xProd>Amortecedor Dianteiro Esquerdo</xProd>
+          <uCom>UN</uCom>
+          <qCom>13.0000</qCom>
+          <vUnCom>185.00</vUnCom>
+          <vProd>2405.00</vProd>
+        </prod>
+      </det>
+      <det nItem="4">
+        <prod>
+          <cProd>PEC-001</cProd>
+          <xProd>Pastilha de Freio Dianteira</xProd>
+          <uCom>JG</uCom>
+          <qCom>10.0000</qCom>
+          <vUnCom>54.90</vUnCom>
+          <vProd>549.00</vProd>
+        </prod>
+      </det>
+      <det nItem="5">
+        <prod>
+          <cProd>PEC-003</cProd>
+          <xProd>Filtro de Ar do Motor</xProd>
+          <uCom>UN</uCom>
+          <qCom>8.0000</qCom>
+          <vUnCom>22.50</vUnCom>
+          <vProd>180.00</vProd>
+        </prod>
+      </det>
+    </infNFe>
+  </NFe>
+</nfeProc>

@@ -1,0 +1,40 @@
+<?xml version='1.0' encoding='utf-8'?>
+<nfeProc xmlns="http://www.portalfiscal.inf.br/nfe" versao="4.00">
+  <NFe xmlns="http://www.portalfiscal.inf.br/nfe">
+    <infNFe versao="4.00" Id="NFe352400211111111000155550010000000011234567890">
+      <emit>
+        <xNome>Atacadão do Automóvel Ceará S/A</xNome>
+      </emit>
+      <det nItem="1">
+        <prod>
+          <cProd>PEC-010</cProd>
+          <xProd>Palheta do Limpador de Pára-brisa</xProd>
+          <uCom>PAR</uCom>
+          <qCom>14.0000</qCom>
+          <vUnCom>35.00</vUnCom>
+          <vProd>490.00</vProd>
+        </prod>
+      </det>
+      <det nItem="2">
+        <prod>
+          <cProd>PEC-003</cProd>
+          <xProd>Filtro de Ar do Motor</xProd>
+          <uCom>UN</uCom>
+          <qCom>13.0000</qCom>
+          <vUnCom>22.50</vUnCom>
+          <vProd>292.50</vProd>
+        </prod>
+      </det>
+      <det nItem="3">
+        <prod>
+          <cProd>PEC-008</cProd>
+          <xProd>Disco de Freio Ventilado (Par)</xProd>
+          <uCom>PAR</uCom>
+          <qCom>11.0000</qCom>
+          <vUnCom>140.00</vUnCom>
+          <vProd>1540.00</vProd>
+        </prod>
+      </det>
+    </infNFe>
+  </NFe>
+</nfeProc>

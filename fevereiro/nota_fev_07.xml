@@ -1,0 +1,60 @@
+<?xml version='1.0' encoding='utf-8'?>
+<nfeProc xmlns="http://www.portalfiscal.inf.br/nfe" versao="4.00">
+  <NFe xmlns="http://www.portalfiscal.inf.br/nfe">
+    <infNFe versao="4.00" Id="NFe352400711111111000155550010000000011234567890">
+      <emit>
+        <xNome>Central de Peças e Acessórios Ltda</xNome>
+      </emit>
+      <det nItem="1">
+        <prod>
+          <cProd>PEC-002</cProd>
+          <xProd>Óleo de Motor 15W40 Semissintético</xProd>
+          <uCom>L</uCom>
+          <qCom>14.0000</qCom>
+          <vUnCom>32.00</vUnCom>
+          <vProd>448.00</vProd>
+        </prod>
+      </det>
+      <det nItem="2">
+        <prod>
+          <cProd>PEC-005</cProd>
+          <xProd>Vela de Ignição (Jogo com 4)</xProd>
+          <uCom>JG</uCom>
+          <qCom>2.0000</qCom>
+          <vUnCom>65.00</vUnCom>
+          <vProd>130.00</vProd>
+        </prod>
+      </det>
+      <det nItem="3">
+        <prod>
+          <cProd>PEC-010</cProd>
+          <xProd>Palheta do Limpador de Pára-brisa</xProd>
+          <uCom>PAR</uCom>
+          <qCom>12.0000</qCom>
+          <vUnCom>35.00</vUnCom>
+          <vProd>420.00</vProd>
+        </prod>
+      </det>
+      <det nItem="4">
+        <prod>
+          <cProd>PEC-003</cProd>
+          <xProd>Filtro de Ar do Motor</xProd>
+          <uCom>UN</uCom>
+          <qCom>4.0000</qCom>
+          <vUnCom>22.50</vUnCom>
+          <vProd>90.00</vProd>
+        </prod>
+      </det>
+      <det nItem="5">
+        <prod>
+          <cProd>PEC-007</cProd>
+          <xProd>Amortecedor Dianteiro Esquerdo</xProd>
+          <uCom>UN</uCom>
+          <qCom>7.0000</qCom>
+          <vUnCom>185.00</vUnCom>
+          <vProd>1295.00</vProd>
+        </prod>
+      </det>
+    </infNFe>
+  </NFe>
+</nfeProc>

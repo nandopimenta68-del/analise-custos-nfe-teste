@@ -1,0 +1,70 @@
+<?xml version='1.0' encoding='utf-8'?>
+<nfeProc xmlns="http://www.portalfiscal.inf.br/nfe" versao="4.00">
+  <NFe xmlns="http://www.portalfiscal.inf.br/nfe">
+    <infNFe versao="4.00" Id="NFe352400511111111000155550010000000011234567890">
+      <emit>
+        <xNome>Distribuidora AutoPeças Brasil Ltda</xNome>
+      </emit>
+      <det nItem="1">
+        <prod>
+          <cProd>PEC-012</cProd>
+          <xProd>Bateria Automotiva 60Ah</xProd>
+          <uCom>UN</uCom>
+          <qCom>11.0000</qCom>
+          <vUnCom>320.00</vUnCom>
+          <vProd>3520.00</vProd>
+        </prod>
+      </det>
+      <det nItem="2">
+        <prod>
+          <cProd>PEC-011</cProd>
+          <xProd>Aditivo para Radiador Concentrado</xProd>
+          <uCom>L</uCom>
+          <qCom>8.0000</qCom>
+          <vUnCom>28.00</vUnCom>
+          <vProd>224.00</vProd>
+        </prod>
+      </det>
+      <det nItem="3">
+        <prod>
+          <cProd>PEC-002</cProd>
+          <xProd>Óleo de Motor 15W40 Semissintético</xProd>
+          <uCom>L</uCom>
+          <qCom>6.0000</qCom>
+          <vUnCom>32.00</vUnCom>
+          <vProd>192.00</vProd>
+        </prod>
+      </det>
+      <det nItem="4">
+        <prod>
+          <cProd>PEC-009</cProd>
+          <xProd>Correia Dentada de Distribuição</xProd>
+          <uCom>UN</uCom>
+          <qCom>11.0000</qCom>
+          <vUnCom>55.00</vUnCom>
+          <vProd>605.00</vProd>
+        </prod>
+      </det>
+      <det nItem="5">
+        <prod>
+          <cProd>PEC-003</cProd>
+          <xProd>Filtro de Ar do Motor</xProd>
+          <uCom>UN</uCom>
+          <qCom>15.0000</qCom>
+          <vUnCom>22.50</vUnCom>
+          <vProd>337.50</vProd>
+        </prod>
+      </det>
+      <det nItem="6">
+        <prod>
+          <cProd>PEC-006</cProd>
+          <xProd>Amortecedor Dianteiro Direito</xProd>
+          <uCom>UN</uCom>
+          <qCom>14.0000</qCom>
+          <vUnCom>185.00</vUnCom>
+          <vProd>2590.00</vProd>
+        </prod>
+      </det>
+    </infNFe>
+  </NFe>
+</nfeProc>

@@ -1,0 +1,50 @@
+<?xml version='1.0' encoding='utf-8'?>
+<nfeProc xmlns="http://www.portalfiscal.inf.br/nfe" versao="4.00">
+  <NFe xmlns="http://www.portalfiscal.inf.br/nfe">
+    <infNFe versao="4.00" Id="NFe352401211111111000155550010000000011234567890">
+      <emit>
+        <xNome>Central de Peças e Acessórios Ltda</xNome>
+      </emit>
+      <det nItem="1">
+        <prod>
+          <cProd>PEC-005</cProd>
+          <xProd>Vela de Ignição (Jogo com 4)</xProd>
+          <uCom>JG</uCom>
+          <qCom>7.0000</qCom>
+          <vUnCom>65.00</vUnCom>
+          <vProd>455.00</vProd>
+        </prod>
+      </det>
+      <det nItem="2">
+        <prod>
+          <cProd>PEC-012</cProd>
+          <xProd>Bateria Automotiva 60Ah</xProd>
+          <uCom>UN</uCom>
+          <qCom>4.0000</qCom>
+          <vUnCom>374.40</vUnCom>
+          <vProd>1497.60</vProd>
+        </prod>
+      </det>
+      <det nItem="3">
+        <prod>
+          <cProd>PEC-007</cProd>
+          <xProd>Amortecedor Dianteiro Esquerdo</xProd>
+          <uCom>UN</uCom>
+          <qCom>8.0000</qCom>
+          <vUnCom>185.00</vUnCom>
+          <vProd>1480.00</vProd>
+        </prod>
+      </det>
+      <det nItem="4">
+        <prod>
+          <cProd>PEC-009</cProd>
+          <xProd>Correia Dentada de Distribuição</xProd>
+          <uCom>UN</uCom>
+          <qCom>8.0000</qCom>
+          <vUnCom>65.45</vUnCom>
+          <vProd>523.60</vProd>
+        </prod>
+      </det>
+    </infNFe>
+  </NFe>
+</nfeProc>
